@@ -17,7 +17,7 @@ const Projects = () => {
       description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
       image: './chatapp.png',
       technologies: ['React', 'Tailwind.css', 'Socket.io', 'Express', 'MongoDb'],
-      liveUrl: 'https://persnal-chat-app.vercel.app/login',
+      liveUrl: 'https://myportfolio-puce-one.vercel.app/',
       githubUrl: 'https://github.com/Akanshu06/PERSNAL-CHAT-APP',
       date: '2025'
     },
