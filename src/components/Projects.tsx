@@ -8,7 +8,7 @@ const Projects = () => {
       description: 'A full-stack expanses tracker built with React, Node.js, and MongoDB. Features include user authentication, payment integration, and leaderboard.',
       image: './epxpic.png',
       technologies: ['React', 'Node.js', 'MongoDB', 'Express.js','RsetApi'],
-      liveUrl: 'https://expanses-tracker-app.vercel.app/login',
+      liveUrl: 'https://expanses-tracker-app.vercel.app/',
       githubUrl: 'https://github.com/Akanshu06/expanses-tracker-app',
       date: '2024'
     },
